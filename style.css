@@ -1,0 +1,10 @@
+.home{
+    background: linear-gradient(45deg,rgba(29, 224, 153, .8), rgba(29,200,205,0.8)),url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30480.jpg?w=2000');
+    background-size: cover;
+   background-attachment: fixed;
+}
+.call{
+    background: url('https://t4.ftcdn.net/jpg/01/67/23/55/360_F_167235520_AFrB955JhCwhkpz1ev2L7X9SBcpVgAyg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
